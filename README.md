@@ -12,6 +12,10 @@ see [stringr](https://stringr.tidyverse.org),
 # package
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/wzy0716/package/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/wzy0716/package/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/wzy0716/package/graph/badge.svg)](https://app.codecov.io/gh/wzy0716/package)
 <!-- badges: end -->
 
 The goal of package is to make regular expressions more exciting! It
