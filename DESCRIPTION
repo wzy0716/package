@@ -14,3 +14,4 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     stringr
+URL: https://wzy0716.github.io/package/
